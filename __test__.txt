@@ -1,0 +1,2 @@
+INSERT a string
+ASSIGN a a
